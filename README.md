@@ -3,11 +3,6 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+ʜᴇʟʟᴏ+ᴍʏ+ɴᴀᴍᴇ+ɪs+ᴋʀɪsʜɴᴀ+🌲+❗️"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
-</p>
-
-- 🔭 I’m currently working on Telegram Bots
 <h1 align="left">🌐 Socials Contact: </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajnish_mishra____) 
